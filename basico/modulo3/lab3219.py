@@ -5,3 +5,4 @@ while True:
     if word == "chupacabra":
         print("¡Has dejado el bucle con éxito")
         break
+    
