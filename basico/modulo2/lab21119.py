@@ -1,6 +1,5 @@
-#Laboratorio 2.1.1.19
+#Laboratorio 2.1.1.19 
 
-#Instruccion Original
 print("    *")
 print("   * *")
 print("  *   *")
@@ -10,19 +9,42 @@ print("  *   *")
 print("  *   *")
 print("  *****")
 
-#Instruccion1
-print("     *", "\n", "   * *", "\n", "  *   *", "\n", " *     *", 
-"\n", "***   ***", "\n", "  *   *", "\n", "  *   *", "\n", "  *****")
+print ( "*" , " \n " , "* *" , " \n " , "* *" , " \n " , "* *" ,
+" \n " , "*** ***" , " \n " , "* *" , " \n " , "* *" , " \n " , "*****" )
 
-#Instruccion2
-print("          *","\n","        * *","\n",
-"       *   *","\n","      *     *","\n","     *       *","\n",
-"    *         *","\n","   *           *","\n","  *             *","\n",
-" *               *","\n","*****      *****","\n","    *        *","\n",
-"    *        *","\n","    *        *","\n","    *        *","\n","    *        *","\n",
-"    *        *","\n","    **********")
+print("        *")
+print("       * *")
+print("      *   *")
+print("     *     *")
+print("    *       *")
+print("   *         *")
+print("  *           *")
+print(" *             *")
+print("*****       *****")
+print("    *       *")
+print("    *       *")
+print("    *       *")
+print("    *       *")
+print("    *       *")
+print("    *       *")
+print("    *********")
 
 
-#Instruccion3
+print("        *"*2)
+print("       * *"*2)
+print("      *   *"*2)
+print("     *     *"*2)
+print("    *       *"*2)
+print("   *         *"*2)
+print("  *           *"*2)
+print(" *             *"*2)
+print("*****       *****"*2)
+print("    *       *"*2)
+print("    *       *"*2)
+print("    *       *"*2)
+print("    *       *"*2)
+print("    *       *"*2)
+print("    *       *"*2)
+print("    *********"*2)
 
 
