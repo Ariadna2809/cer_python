@@ -1,4 +1,5 @@
 #Laboratorio 3.1.1.11
+#Elaborado por: Ariadna Loredo
 
 ingreso = float(input("Introduce el ingreso anual: "))
 impuesto = 0

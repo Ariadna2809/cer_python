@@ -1,4 +1,5 @@
 #Laboratorio 3.1.1.10
+#Elaborado por: Ariadna Loredo
 
 word = input('Ingresa el nombre de la planta: ')
 

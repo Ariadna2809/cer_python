@@ -1,4 +1,5 @@
 #Laboratorio 3.2.1.3
+#Elaborado por: Ariadna Loredo
 
 secret_number = 777
 

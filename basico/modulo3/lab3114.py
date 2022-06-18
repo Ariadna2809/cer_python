@@ -1,4 +1,5 @@
 #Laboratorio 3.1.1.4
+#Elaborado por: Ariadna Loredo
 
 num = input ('Ingresa numero: ')
 num = int(num)

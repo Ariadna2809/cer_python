@@ -1,4 +1,5 @@
 #Laboratorio 3.1.1.12
+#Elaborado por: Ariadna Loredo
 
 year = int(input("Introduce un año: "))
 

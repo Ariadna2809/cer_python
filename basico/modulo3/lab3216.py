@@ -1,4 +1,5 @@
 #Laboratorio 3.2.1.6
+#Elaborado por: Ariadna Loredo
 
 import time
 

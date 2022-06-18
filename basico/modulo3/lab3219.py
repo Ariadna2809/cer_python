@@ -1,8 +1,11 @@
 #Laboratorio 3.2.1.9
+#Elaborado por: Ariadna Loredo
+
+word = "chupacabra"
 
 while True:
-    word = input('Ingresa la palabra: ')
-    if word == "chupacabra":
-        print("¡Has dejado el bucle con éxito")
+    palabra = input("Ingresa una nueva palabra: ")
+    if palabra == word:
         break
+print("¡Has dejado el bucle con éxito!")
     
