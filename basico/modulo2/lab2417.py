@@ -1,4 +1,5 @@
 #Laboratorio 2.4.1.7
+#Elaborado por: Ariadna Loredo
 
 juan = 3
 maria = 6

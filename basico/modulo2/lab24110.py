@@ -1,4 +1,5 @@
 #Laboratorio 2.4.1.10
+#Elaborado por: Ariadna Loredo
 
 x =  input("Ingresa el valor de X: ")
 x = float(x)

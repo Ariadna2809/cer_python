@@ -1,8 +1,9 @@
 #Laboratorio 2.6.1.10
+#Elaborado por: Ariadna Loredo
 
 x = float(input("Ingresa el valor para x: "))
 
 # Escribe tu código aquí.
-x+1/x
+y = 1/(x+(1/(x+(1/(x+(1/x))))))
 
 print("y =", y)

@@ -1,3 +1,6 @@
+#Laboratorio 2.5.1.2
+#Elaborado por: Ariadna Loredo
+
 # este programa calcula los segundos en cierto número de horas determinadas 
 # este programa fue escrito hace dos días
 

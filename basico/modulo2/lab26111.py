@@ -1,4 +1,5 @@
 #Laboratorio 2.6.1.11
+#Elaborado por: Ariadna Loredo
 
 hour = int(input("Hora de inicio (horas): "))
 mins = int(input("Minuto de inicio (minutos): "))

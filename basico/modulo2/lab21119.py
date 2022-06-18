@@ -1,4 +1,5 @@
-#Laboratorio 2.1.1.19 
+#Laboratorio 2.1.1.19
+#Elaborado por: Ariadna Loredo
 
 print("    *")
 print("   * *")
